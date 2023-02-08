@@ -8,7 +8,7 @@
   
   - Retrieve a weather data:
    
-   - We created weather data by generating random 2,000 latitude and longitude sets, which resulted in 737 cities. Then, we saved 737 cities in the DataFrame in a CSV file. 
+    - We created weather data by generating random 2,000 latitude and longitude sets, which resulted in 737 cities. Then, we saved 737 cities in the DataFrame in a CSV file. 
    
   - Create a customer travel destinations map:
   
